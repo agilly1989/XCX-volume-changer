@@ -1,0 +1,10 @@
+*.bat
+.*-*
+blah
+build
+venv
+__pycache__
+.vscode
+*.txt
+*.7z
+*.spec
