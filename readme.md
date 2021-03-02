@@ -12,3 +12,5 @@ Uses multithreading to use all it can to speed up everything, so the more cores,
 Usage:
 
 Run it and it'll make "readme - part 2.md", open that as it has more instructions (made for your system)
+
+Note: This is an ALPHA and "Dead" script. Due to my priorities changing all the time (and my motivation changing as often as the seconds hand moves) support for this script may not be available when you want it.
